@@ -1,6 +1,6 @@
 Booken - Get Your New Book Collections
 
-This is a Book eCommerce html template made by codewithsadee
+This is a Book eCommerce html template made by edfeff
 
 
 
@@ -276,7 +276,7 @@ Insurance
 Book Writing
 
 
-Copyright 2022 | Made With Love by codewithsadee.
+Copyright 2022 | Made With Love by edfeff.
 
 alt = Payment method
 
